@@ -1,0 +1,5 @@
+MAX 13
+AAA 0
+AAA 0
+AAA 0
+AAA 0
